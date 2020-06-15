@@ -9,7 +9,7 @@ This is a large compilation of blocklists and every blocklist used in this compi
 **Number of domains: 2,144,662.**  
 **Latest updated date: 14/06/2020.**  
   
-**Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt **
+**Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt**
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
 **License: GNU GPL v3.0.**
   
