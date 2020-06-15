@@ -1,5 +1,6 @@
 # Pi-Hole-Blocklist
   
+
 This is my personal Pi-Hole blocklist with over a million domains blocking everything from trackers, advertisements, spams and fishing domains.  
 This is a large compilation of blocklists and every blocklist used in this compilation is credited below.  
      
@@ -8,8 +9,8 @@ This is a large compilation of blocklists and every blocklist used in this compi
 **Number of domains: 2,144,662.**  
 **Latest updated date: 14/06/2020.**  
   
+**Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt **
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
-**Project releases: https://github.com/daylamtayari/Pi-Hole-Blocklist/releases**  
 **License: GNU GPL v3.0.**
   
   
