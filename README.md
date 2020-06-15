@@ -51,3 +51,5 @@ Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist
 - Spootle's blocklist: https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 - KBoghDady's YouTube advertisement blocklist: https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 - Blocklist Project's blocklists: https://blocklist.site/app/dl/fraud https://blocklist.site/app/dl/ads https://blocklist.site/app/dl/malware https://blocklist.site/app/dl/phishing
+- DeveleporDan'sBlocklists:https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txthttps://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txthttps://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+- ChefKoch'sblocklists(NSA,trackers,Spotifyads,etc.):https://github.com/CHEF-KOCH/
