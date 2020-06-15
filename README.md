@@ -2,7 +2,7 @@
   
 This is my personal Pi-Hole blocklist with over a million domains blocking everything from trackers, advertisements, spams and fishing domains.    
 This is a large compilation of blocklists and every blocklist used in this compilation is credited below.  
-The master list is seperated in two parts due to the master list being too big for most services, including Pi-Hole.  
+The master list is seperated into three parts due to the master list being too big for most services, including Pi-Hole.  
    
 **When setting this up in Pi-Hole, use the split lists instead of master lists because in most cases it will be too big to properly download.**    
      
