@@ -6,8 +6,8 @@ This is a large compilation of blocklists and every blocklist used in this compi
      
 **If you wish to suggest domains or blocklists to be appended to this blocklist, please open a pull request in the suggestions branch.**
   
-**Number of domains: 2,144,662.**  
-**Latest updated date: 14/06/2020.**  
+**Number of domains: 2,002,463.**  
+**Latest updated date: 15/06/2020.**  
   
 **Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt**  
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
