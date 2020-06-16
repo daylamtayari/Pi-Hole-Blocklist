@@ -9,8 +9,8 @@ Pi-Hole automatically updates the gravity every Sunday so you are not required t
      
 **If you wish to suggest domains or blocklists to be appended to this blocklist, please open a pull request in the suggestions branch.**
   
-**Number of domains: 1,854,334.**  
-**Latest updated date: 15/06/2020.**  
+**Number of domains: 1,853,850.**  
+**Latest updated date: 16/06/2020.**  
   
 **Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt**  
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
