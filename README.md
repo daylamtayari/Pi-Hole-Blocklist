@@ -3,6 +3,9 @@
 
 This is my personal Pi-Hole blocklist with over a million domains blocking everything from trackers, advertisements, spams and fishing domains.  
 This is a large compilation of blocklists and every blocklist used in this compilation is credited below.  
+  
+**I update this blocklist very regularly, practically on a daily level. The date below signifies when this blocklist was last updated.**
+Pi-Hole automatically updates the gravity every Sunday so you are not required to regularly update it manually.
      
 **If you wish to suggest domains or blocklists to be appended to this blocklist, please open a pull request in the suggestions branch.**
   
