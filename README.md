@@ -15,6 +15,8 @@ Pi-Hole automatically updates the gravity every Sunday so you are not required t
 **Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt**  
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
 **License: GNU GPL v3.0.**
+
+**Notice: All Facebook services are blocked as part of the blocklist.**
   
   
 ## Credits: 
