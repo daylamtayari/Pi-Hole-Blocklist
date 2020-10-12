@@ -9,8 +9,8 @@ Pi-Hole automatically updates the gravity every Sunday so you are not required t
      
 **If you wish to suggest domains or blocklists to be appended to this blocklist, please open a pull request in the suggestions branch.**
   
-**Number of domains: 1,853,850.**  
-**Latest updated date: 16/06/2020.**  
+**Number of domains: 1,911,482.**  
+**Latest updated date: 11/10/2020.**  
   
 **Latest release: https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt**  
 Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist  
@@ -57,4 +57,4 @@ Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist
 - KBoghDady's YouTube advertisement blocklist: https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 - Blocklist Project's blocklists: https://blocklist.site/app/dl/fraud https://blocklist.site/app/dl/ads https://blocklist.site/app/dl/malware https://blocklist.site/app/dl/phishing
 - Develepor Dan's Blocklists: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txthttps://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txthttps://www.github.developerdan.com/hosts/lists/facebook-extended.txt
-- Chef Koch's blocklists (NSA, trackers, Spotify ads, etc.): https://github.com/CHEF-KOCH/
+- Chef Koch's blocklists: https://gitlab.com/CHEF-KOCH/
