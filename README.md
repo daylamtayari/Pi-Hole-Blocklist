@@ -17,7 +17,25 @@ Project home page: https://github.com/daylamtayari/Pi-Hole-Blocklist
 **License: GNU GPL v3.0.**
 
 **Notice: All Facebook services are blocked as part of the blocklist.**
-  
+
+## List Mirrors:
+
+**These lists are mirrors of lists that I use but have not integrated into the master list due to being too restrictive for the majority of users.**
+- CHEF-KOCH's NSA blocklist:
+  - Mirror: https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt
+  - Original (both have been taken down): https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS / https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/hosts/NSABlocklist.txt
+- CHEF-KOCH's Pinterest blocklist:
+  - Mirror: https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Mirrors/Pinterest-Blocklist--CHEF-KOCH.txt
+  - Original (both have been taken down): https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/filters/Pinterest.txt / https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/hosts/Pinterest.txt
+- CHEF-KOCH's Tik Tok blocklist:
+  - Mirror: https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Mirrors/Tik-Tok-Blocklist--CHEF-KOCH.txt
+  - Original (both have been taken down): https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/filters/TikTok.txt / https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/hosts/TikTok.txt
+- d43m0nhLInt3r's Snapchat blocklist:
+  - Mirror: https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Mirrors/Snapchat-Blocklist--d43m0nhLInt3r.txt
+  - Original: https://github.com/d43m0nhLInt3r/socialblocklists/blob/master/Snapchat/snapchatblocklist.txt
+- Anthony Wang's Xiaomi blocklist:
+  - Mirror (combined blocklists): https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Mirrors/Xiaomi-Blocklist--Anthony-Wang.txt
+  - Original (`hosts` 1-3 files): https://github.com/anthony-wang/PiHoleBlocklist/
   
 ## Credits: 
   
